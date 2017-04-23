@@ -1,0 +1,1 @@
+Small, useful libraries for .NET Core apps 
